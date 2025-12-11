@@ -1,0 +1,25 @@
+site_name: Moje projekty
+site_author: kol2002
+site_description: >-
+    Portfolio moich projektów z Data Science i AI!
+
+repo_name: gitkol2002/portfolio
+repo_url: https://github.com/gitkol2002/portfolio
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    scheme: slate
+    
+
+nav:
+- Strona Domowa: index.md
+- Obecny projekt:
+   - "Kurs Twórz i Sprzedawaj Agentów AI": kurs/kurs.md
+- Poprzednie projekty:
+  - "Predyktor czasu półmaratonu": polmaraton/polmaraton.md
+  - "Generator podsumowań do filmów": podsumowanie/podsumowanie.md
+  - "Generator napisów": generator/generator.md
+  - "Analiza Danych: Iris": iris/iris.md
+  - "Analiza Danych: Titanic": titanic/titanic.md
