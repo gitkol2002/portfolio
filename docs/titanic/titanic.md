@@ -11,7 +11,7 @@ Ta eksploracja z pewnością zaciekawi każdego miłośnika danych, a jednocześ
 
 
 <a href="/portfolio/titanic/titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
-docs/titanic
+
 <iframe
     id="content"
     src="/portfolio/titanic/titanic.html"
