@@ -7,12 +7,12 @@ Projekt ten prowadzi przez kluczowe zależności pomiędzy cechami morfologiczny
 
 To świetna okazja, aby zobaczyć, jak prosta analiza może odsłonić fascynujące wzorce w naturze — od korelacji wymiarów płatków po charakterystyczne cechy każdego gatunku. Zanurz się w świecie danych i poznaj irysy z zupełnie nowej perspektywy!
 
-<a href="/iris/iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+<a href="/portfolio/iris/iris.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
 
 
 <iframe
     id="content"
-    src="/iris/iris.html"
+    src="/portfolio/iris/iris.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>

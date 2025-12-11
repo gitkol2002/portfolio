@@ -10,11 +10,11 @@ Analiza odsłania zarówno dramatyczne braki danych wynikające z realiów tamte
 Ta eksploracja z pewnością zaciekawi każdego miłośnika danych, a jednocześnie skłoni do refleksji nad wydarzeniem, które od ponad wieku budzi ogromne emocje.
 
 
-<a href="/docs/titanic/titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
-
+<a href="/portfolio/titanic/titanic.ipynb" class="md-button md-button--primary">Pobierz Notebook</a>
+docs/titanic
 <iframe
     id="content"
-    src="/dosc/titanic/titanic.html"
+    src="/portfolio/titanic/titanic.html"
     width="100%"
     style="border:1px solid black;overflow:hidden;"
 ></iframe>
