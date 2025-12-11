@@ -1,2 +1,4 @@
-# Witaj na stronie mojego portfolio
-Nazywam się Paweł, a ta strona to przegląd projektów, które realizuję w obszarach analizy danych, sztucznej inteligencji oraz uczenia maszynowego. Skupiam się na rozwoju kompetencji i budowaniu praktycznych rozwiązań, które pomagają lepiej rozumieć dane i wykorzystywać ich potencjał.
+# Witaj w moim portfolio projektów
+Nazywam się Paweł i rozwijam się w obszarach analizy danych, uczenia maszynowego i sztucznej inteligencji. Tworzę praktyczne projekty oparte na Pythonie, Pandas i technikach machine learning, dzięki którym pogłębiam swoje umiejętności i poznaję realne zastosowania AI.
+
+Łączę doświadczenie wyniesione z pracy operacyjnej i analizy procesów z rosnącymi kompetencjami technicznymi, budując rozwiązania wspierające podejmowanie decyzji i automatyzację. Jestem nastawiony na naukę, rozwój i pracę nad projektami, które pozwalają wykorzystać AI w praktyce — zarówno w biznesie, jak i w codziennych zadaniach.
